@@ -1,0 +1,1 @@
+import{k as o,o as n,l as a,S as s,Q as e,W as t}from"./entry.70cc34c7.js";const c={},r=e("h1",null,"HTML stránka",-1),l=e("p",null,[t("Tato stránka je tvořena pomocí "),e("strong",null,"HTML"),t(".")],-1);function _(d,m){return n(),a(s,null,[r,l],64)}const f=o(c,[["render",_]]);export{f as default};
