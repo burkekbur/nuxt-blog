@@ -5,10 +5,12 @@
         "dev": "nuxt dev",
         "generate": "nuxt generate",
         "preview": "nuxt preview",
-        "postinstall": "nuxt prepare"
+        "postinstall": "nuxt prepare",
+        "deploy": "touch build/.nojekyll && gh-pages -d build -t true"
     },
     "devDependencies": {
         "@nuxt/content": "^2.5.2",
+        "gh-pages": "^5.0.0",
         "nuxt": "^3.2.3"
     }
 }
