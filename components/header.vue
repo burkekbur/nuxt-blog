@@ -1,12 +1,12 @@
 <template>
     <header>
-        <a href="/">Home</a>
+        <NuxtLink to="/">Home</NuxtLink>
 
         <nav>
             <ul>
-                <li><a href="/html-page">HTML</a></li>
-                <li><a href="/markdown-page">Markdown</a></li>
-                <li><a href="/blog">Blog</a></li>
+                <li><NuxtLink to="/html-page">HTML</NuxtLink></li>
+                <li><NuxtLink to="/markdown-page">Markdown</NuxtLink></li>
+                <li><NuxtLink to="/blog">Blog</NuxtLink></li>
             </ul>
         </nav>
     </header>
