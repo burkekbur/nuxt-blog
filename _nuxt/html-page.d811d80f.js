@@ -1,1 +1,0 @@
-import{l as o,o as n,m as a,M as s,K as e,P as t}from"./entry.ddafbbe5.js";const c={},r=e("h1",null,"HTML stránka",-1),l=e("p",null,[t("Tato stránka je tvořena pomocí "),e("strong",null,"HTML"),t(".")],-1);function _(m,d){return n(),a(s,null,[r,l],64)}const f=o(c,[["render",_]]);export{f as default};
